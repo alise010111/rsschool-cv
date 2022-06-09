@@ -8,3 +8,4 @@ __*Junior Frontend Developer*__
 
 __Briefly About Myself:__
 >I believe, that my ability to learn and to gain new skills will lead me through this path of becoming a proficient Frontend Developer.
+__And I hope it won't be hard.__
